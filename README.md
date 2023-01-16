@@ -1,5 +1,6 @@
 # Gammapy hands-on sessions and schools
 
+  Disclaimer: list under construction.
 
 | Name                              | Material and links                                                                          | Contributors                    |
 |-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|
