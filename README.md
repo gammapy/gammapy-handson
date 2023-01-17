@@ -4,6 +4,7 @@
 
 | Name                              | Material and links                                                                          | Contributors                    |
 |-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|
+| ASTRI Hands-on (Palermo, 2022)    | [Hands-on](https://indico.ict.inaf.it/event/1867/)                                          | F. Pintore                     |
 | CTA Hands-on (Bologna, 2022)      | [Hands-on](https://github.com/AtreyeeS/CTAO-CTAC_Meeting_Bologna_2022)                      | A. Sinha, L. Guinti             |
 | Hands-on (KU, 2022)               | [Hands-on](https://github.com/AtreyeeS/VHE-KU-workshop)                                     | A. Sinha, R. Terrier            |
 | Thai-CTA workshop (Bangkok, 2021) | [Hands-on](https://github.com/AtreyeeS/gammapy-thai-cta)                                    | A. Sinha, B. Khélifi            |
