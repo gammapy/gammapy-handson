@@ -5,9 +5,10 @@
 
 | Name                              | Material and links                                                                          | Contributors                    |
 |-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|
-| CTA Hands-on (Granada, 2023)      | [Hands-on](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023)                      | B. Khélifi, R. Terrier                     |
-| ASTRI Hands-on (Palermo, 2022)    | [Hands-on](https://indico.ict.inaf.it/event/1867/)                                          | F. Pintore                     |
-| ISAPP School (Orsay, 2022)        | [Hands-on](https://github.com/registerrier/gammapy_hands_on_ISAPP_2022)                     | R. Terrier, F. Acero             |
+| IFSC school (São Marcos, Bz, 2024)| [Course](https://github.com/bkhelifi/Brazil_2024)                                           | B. Khélifi                      |
+| CTA Hands-on (Granada, 2023)      | [Hands-on](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023)                      | B. Khélifi, R. Terrier          |
+| ASTRI Hands-on (Palermo, 2022)    | [Hands-on](https://indico.ict.inaf.it/event/1867/)                                          | F. Pintore                      |
+| ISAPP School (Orsay, 2022)        | [Hands-on](https://github.com/registerrier/gammapy_hands_on_ISAPP_2022)                     | R. Terrier, F. Acero            |
 | CTA Hands-on (Bologna, 2022)      | [Hands-on](https://github.com/AtreyeeS/CTAO-CTAC_Meeting_Bologna_2022)                      | A. Sinha, L. Guinti             |
 | Hands-on (KU, 2022)               | [Hands-on](https://github.com/AtreyeeS/VHE-KU-workshop)                                     | A. Sinha, R. Terrier            |
 | Thai-CTA workshop (Bangkok, 2021) | [Hands-on](https://github.com/AtreyeeS/gammapy-thai-cta)                                    | A. Sinha, B. Khélifi            |
