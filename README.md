@@ -5,6 +5,7 @@
 
 | Name                              | Material and links                                                                          | Contributors                    |
 |-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|
+| CTLearn Workshop (Madrid, 2024)   | [Hands-on](https://github.com/AtreyeeS/CTLearn-Gammapy)                                     | A. Sinha 
 | IFSC school (São Marcos, Bz, 2024)| [Course](https://github.com/bkhelifi/Brazil_2024)                                           | B. Khélifi                      |
 | CTA Hands-on (Granada, 2023)      | [Hands-on](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023)                      | B. Khélifi, R. Terrier          |
 | ASTRI Hands-on (Palermo, 2022)    | [Hands-on](https://indico.ict.inaf.it/event/1867/)                                          | F. Pintore                      |
