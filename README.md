@@ -7,7 +7,7 @@
 |-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|
 | MPIK CDY School (Heidelberg, 2024)| [Hands-on](https://github.com/LauraOlivera/mpik-cdy-hands-on-session)                       | Q. Remy, G. Schwefer, D. Depaoli, L. Olivera-Nieto               
 |MPIK CDY School (Heidelberg, 2024) | [Course](https://github.com/LauraOlivera/mpik-cdy-hands-on-session/blob/main/gammapy_course_Olivera-Nieto.pdf)   | L. Olivera-Nieto
-| CTAO school (La Palma, 2024)      | [Accessible to CTA members](https://ctaoobservatory.sharepoint.com/sites/school/Shared%20Documents/Forms/AllItems.aspx?e=5%3Ab8552f68e3454cfdbbe6f25156bcecf4&sharingv2=true&fromShare=true&at=9&CID=f8ec6d8c%2D4cd1%2D4599%2D92de%2D56b7eb91c036&FolderCTID=0x0120006EA6EC6CDB12C841B3779340BBFE6A92&id=%2Fsites%2Fschool%2FShared%20Documents%2F2024%2FSchool%2Dmaterial%2FGammapy%5FHands%2Don%5Fmaterial%2FNotebooks&viewid=f4605550%2D0a7b%2D4da5%2D818a%2Da19c8fcad8e0) | A. Sinha, F. Acero, F. Pintore
+| CTAO school (La Palma, 2024)      | [Hands-on](https://github.com/AtreyeeS/CTAO_school_notebook) | A. Sinha, F. Acero, F. Pintore
 | CTLearn Workshop (Madrid, 2024)   | [Hands-on](https://github.com/AtreyeeS/CTLearn-Gammapy)                                     | A. Sinha 
 | IFSC school (São Marcos, Bz, 2024)| [Course](https://github.com/bkhelifi/Brazil_2024)                                           | B. Khélifi                      |
 | CTA Hands-on (Granada, 2023)      | [Hands-on](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023)                      | B. Khélifi, R. Terrier          |
