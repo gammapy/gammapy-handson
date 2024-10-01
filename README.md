@@ -5,6 +5,7 @@
 
 | Name                              | Material and links                                                                          | Contributors                    |
 |-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|
+| CADS School (Paris, 2025)         | [Main page](https://github.com/bkhelifi/CADS_2024)                                          | See the page                    |
 | MPIK CDY School (Heidelberg, 2024)| [Hands-on](https://github.com/LauraOlivera/mpik-cdy-hands-on-session)                       | Q. Remy, G. Schwefer, D. Depaoli, L. Olivera-Nieto               
 |MPIK CDY School (Heidelberg, 2024) | [Course](https://github.com/LauraOlivera/mpik-cdy-hands-on-session/blob/main/gammapy_course_Olivera-Nieto.pdf)   | L. Olivera-Nieto
 | CTAO school (La Palma, 2024)      | [Hands-on](https://github.com/AtreyeeS/CTAO_school_notebook) | A. Sinha, F. Acero, F. Pintore
