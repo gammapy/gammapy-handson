@@ -5,11 +5,13 @@
 
 | Name                              | Material and links                                                                          | Contributors                    |
 |-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|
-| CADS School (Paris, 2025)         | [Main page](https://github.com/bkhelifi/CADS_2024)                                          | See the page                    |
+| CADS School (Paris, 2024)         | [Main page](https://github.com/bkhelifi/CADS_2024)                                          | See the page                    |
+| ORP School (Durham, 2024)         | [Main page](https://github.com/Astro-Kirsty/gammapy-ORP)                                    | K. Feijen                       |
 | MPIK CDY School (Heidelberg, 2024)| [Hands-on](https://github.com/LauraOlivera/mpik-cdy-hands-on-session)                       | Q. Remy, G. Schwefer, D. Depaoli, L. Olivera-Nieto               
 |MPIK CDY School (Heidelberg, 2024) | [Course](https://github.com/LauraOlivera/mpik-cdy-hands-on-session/blob/main/gammapy_course_Olivera-Nieto.pdf)   | L. Olivera-Nieto
-| CTAO school (La Palma, 2024)      | [Hands-on](https://github.com/AtreyeeS/CTAO_school_notebook) | A. Sinha, F. Acero, F. Pintore
-| CTLearn Workshop (Madrid, 2024)   | [Hands-on](https://github.com/AtreyeeS/CTLearn-Gammapy)                                     | A. Sinha 
+| CTAO school (La Palma, 2024)      | [Hands-on](https://github.com/AtreyeeS/CTAO_school_notebook)                                | A. Sinha, F. Acero, F. Pintore  |
+| CTA-Oz School (Adelaide, 2024)    | [Hands-on](https://github.com/Astro-Kirsty/gammapy_Adelaide_2024)                           | K. Feijen                       |
+| CTLearn Workshop (Madrid, 2024)   | [Hands-on](https://github.com/AtreyeeS/CTLearn-Gammapy)                                     | A. Sinha                        |
 | IFSC school (São Marcos, Bz, 2024)| [Course](https://github.com/bkhelifi/Brazil_2024)                                           | B. Khélifi                      |
 | CTA Hands-on (Granada, 2023)      | [Hands-on](https://github.com/bkhelifi/CTAO-CTAC_Meeting_Granada_2023)                      | B. Khélifi, R. Terrier          |
 | ASTRI Hands-on (Palermo, 2022)    | [Hands-on](https://indico.ict.inaf.it/event/1867/)                                          | F. Pintore                      |
