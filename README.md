@@ -5,6 +5,7 @@
 
 | Name                              | Material and links                                                                          | Contributors                    |
 |-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|
+| Chilean Workshop (online, 2024)   | [Main page](https://indico.in2p3.fr/event/34684/overview)                                   | A. Jardin-Blicq, L. Olivera-Nieto |
 | CADS School (Paris, 2024)         | [Main page](https://github.com/bkhelifi/CADS_2024)                                          | See the page                    |
 | ORP School (Durham, 2024)         | [Main page](https://github.com/Astro-Kirsty/gammapy-ORP)                                    | K. Feijen                       |
 | MPIK CDY School (Heidelberg, 2024)| [Hands-on](https://github.com/LauraOlivera/mpik-cdy-hands-on-session)                       | Q. Remy, G. Schwefer, D. Depaoli, L. Olivera-Nieto               
