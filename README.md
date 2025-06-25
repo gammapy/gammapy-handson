@@ -5,6 +5,7 @@
 
 | Name                              | Material and links                                                                          | Contributors                    |
 |-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|
+| EAS (Cork, 2025)                  | [Main page](https://github.com/QRemy/EAS_2025_gammapy)                                      | Q. Remy, F. Acero, B. Khélifi   |
 | Chilean Workshop (online, 2024)   | [Main page](https://indico.in2p3.fr/event/34684/overview)                                   | A. Jardin-Blicq, L. Olivera-Nieto |
 | CADS School (Paris, 2024)         | [Main page](https://github.com/bkhelifi/CADS_2024)                                          | See the page                    |
 | ORP School (Durham, 2024)         | [Main page](https://github.com/Astro-Kirsty/gammapy-ORP)                                    | K. Feijen                       |
