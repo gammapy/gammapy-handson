@@ -5,6 +5,7 @@
 
 | Name                              | Material and links                                                                          | Contributors                    |
 |-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|
+| CTAO School (La Palma, 2025)      | [Main page](https://gitlab.cta-observatory.org/cta-computing/suss/science-analysis-tools/tutorials/ctao-school-2025)                               | Q. Sinha, K. Feijen, D. Morcuende   |
 | EAS (Cork, 2025)                  | [Main page](https://github.com/QRemy/EAS_2025_gammapy)                                      | Q. Remy, F. Acero, B. Khélifi   |
 | Chilean Workshop (online, 2024)   | [Main page](https://indico.in2p3.fr/event/34684/overview)                                   | A. Jardin-Blicq, L. Olivera-Nieto |
 | CADS School (Paris, 2024)         | [Main page](https://github.com/bkhelifi/CADS_2024)                                          | See the page                    |
