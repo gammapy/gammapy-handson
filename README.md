@@ -5,7 +5,7 @@
 
 | Name                              | Material and links                                                                          | Contributors                    |
 |-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|
-| 1st MAGIC Open Data-Analysis School | [Main page](https://acme-magic-odas.sciencesconf.org/)                                    | C. Nigro, M. Strzys, G. Ceribella, F. Acero |
+| 1st MAGIC Open Data-Analysis School (online, 2025) | [Main page](https://acme-magic-odas.sciencesconf.org/)                     | C. Nigro, M. Strzys, G. Ceribella, F. Acero |
 | CTAO School (La Palma, 2025)      | [Main page](https://gitlab.cta-observatory.org/cta-computing/suss/science-analysis-tools/tutorials/ctao-school-2025)                               | A. Sinha, K. Feijen, D. Morcuende   |
 | EAS (Cork, 2025)                  | [Main page](https://github.com/QRemy/EAS_2025_gammapy)                                      | Q. Remy, F. Acero, B. Khélifi   |
 | Chilean Workshop (online, 2024)   | [Main page](https://indico.in2p3.fr/event/34684/overview)                                   | A. Jardin-Blicq, L. Olivera-Nieto |
