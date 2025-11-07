@@ -5,6 +5,7 @@
 
 | Name                              | Material and links                                                                          | Contributors                    |
 |-----------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|
+| CADS School (Paris, 2025)         | [Main page](https://github.com/bkhelifi/CADS_2025)                                          | See the page                    |
 | 1st MAGIC Open Data-Analysis School (online, 2025) | [Main page](https://acme-magic-odas.sciencesconf.org/)                     | C. Nigro, M. Strzys, G. Ceribella, F. Acero |
 | CTAO School (La Palma, 2025)      | [Main page](https://gitlab.cta-observatory.org/cta-computing/suss/science-analysis-tools/tutorials/ctao-school-2025)                               | A. Sinha, K. Feijen, D. Morcuende   |
 | EAS (Cork, 2025)                  | [Main page](https://github.com/QRemy/EAS_2025_gammapy)                                      | Q. Remy, F. Acero, B. Khélifi   |
